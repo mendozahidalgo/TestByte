@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">TestByte</string>
+
+    <string name="lbl_user">Usuario</string>
+    <string name="lbl_pass">Contraseña</string>
+    <string name="lbl_btn_sigin">Ingresar</string>
+    <string name="lbl_btn_confirmar">Confirmar</string>
+    <string name="tit_det_cuenta">Detalle de cuenta</string>
+    <string name="tit_ult_movs">Ultimos movimientos</string>
 </resources>
